@@ -1,6 +1,6 @@
-"""Assignment: 5. Determinant
-Created on: 29 JAN 2021
-@author: Lars Wagoner"""
+#the input must be structured in the following way
+#Each column separated by a space, each row by a new line, 
+#and each matrix by an equals sign.
 
 
 def minor_matrix(m, i, j):
